@@ -38,7 +38,7 @@ function Header() {
         </div>
         <div className="flex items-center space-x-4 text-sm font-light">
           <SearchIcon className="hidden sm:inline h-6 w-6" />
-          <p className="hidden lg-inline">Kids</p>
+          <p className="hidden lg:inline">Kids</p>
           <BellIcon className="h-6 w-6" />
           <Link href="/account">
             <img src="https://rb.gy/g1pwyx"
